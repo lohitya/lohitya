@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lohi
 
-Recently completed my Master of Business with a focus on Data Analytics  
+Recently completed my Master of Business 
 📊 Aspiring Data Analyst | 💻 Passionate about transforming raw data into actionable insights  
 📍 Based in New Zealand | Open to full-time opportunities in data, analytics, or reporting
 
