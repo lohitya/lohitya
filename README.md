@@ -51,7 +51,6 @@ Machine Learning | Time Series Forecasting | Git & GitHub
 
 ## 📫 Contact
 
-- 📧 Email: lohitya.sethuraman@gmail.com  
 - 💼 [LinkedIn]( https://www.linkedin.com/in/lohitya-sethuraman/ )
 - 📁 [Resume (PDF)](https://your-link-to-resume.com)
 
